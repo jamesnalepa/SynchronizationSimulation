@@ -1,3 +1,5 @@
 # SynchronizationSimulation
 
-A program to simulate synchronization between multiple jobs on a conveyor belt. It reads out when jobs are being put on a belt and when a belt is empty.
+A program to simulate synchronization between multiple jobs by using an analogy of multiple conveyor belts.
+
+Messages are printed when blocks move between belts to show which processes are running and what resources (blocks) they are using.
